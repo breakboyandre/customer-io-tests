@@ -1,0 +1,9 @@
+.idea
+.aws-sam
+node_modules
+.vscode
+.serverless
+.env
+.DS_Store
+jspm_packages
+.esbuild
