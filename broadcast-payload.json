@@ -1,0 +1,40 @@
+{
+  "start_date_text": "26 - 27 de April",
+  "start_time_text": "19:00",
+  "topic_title": "UX Design e UX Writing: carreira, migração e mercado de trabalho",
+  "webinar_name": "UX Design e UX Writing: carreira, migração e mercado de trabalho",
+  "is_public": true,
+  "utm_campaign": "marathon_1798_product-maratona-2023-04-26-27_email_reminder_triggered_2days_2023-04",
+  "lms_landing_url": "https://ebaconline.com.br",
+  "speakers": [
+    {
+      "image_url": "https://ebaconline.com.br/upload/cms/FyW8qdAantxaieQmtPaV3.png",
+      "name": "Juliana Rocha",
+      "subtitle": "Gerente de Projeto na Obramax - Grupo Adeo"
+    },
+    {
+      "image_url": "https://ebaconline.com.br/upload/cms/firz67WazhnAmMpgwFENi.png",
+      "name": "Camille Pezzino",
+      "subtitle": "UX Writer e UX Researcher"
+    }
+  ],
+  "topics": [
+    {
+      "date_month": "abril",
+      "date_day": "26",
+      "date_hours": "19",
+      "date_minutes": "00",
+      "title": "Dia 1 – 26/04: Migração para a área de Produtos Digitais: será que é pra mim?",
+      "speaker_name": "Juliana Rocha"
+    },
+    {
+      "date_month": "abril",
+      "date_day": "27",
+      "date_hours": "19",
+      "date_minutes": "00",
+      "title": "Dia 2 – 27/04: Eu escrevo, e agora? Carreira, migração e primeira chance no mercado",
+      "speaker_name": "Camille Pezzino"
+    }
+  ],
+  "topics_count": 2
+}
